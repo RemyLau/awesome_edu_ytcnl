@@ -111,6 +111,7 @@ A curated list of Remy's favorite YouTube channels.
 * [林亦LYi](https://www.youtube.com/channel/UC4dtpugIYK56S_7btf5a-iQ)
 * [亿点点不一样](https://www.youtube.com/channel/UCRmtQhqRR8TmXOwuMu4sd1Q)
 * [回形针](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg)
+* [拉克斯](https://www.youtube.com/channel/UCMpQA4MMSpl_bMvNTZ5rODQ)
 
 ### 吃饭
 
