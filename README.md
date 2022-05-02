@@ -24,13 +24,13 @@ A curated list of Remy's favorite YouTube channels.
 ### Coding
 
 * [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy)
+* [ThePrimeagen](https://www.youtube.com/c/ThePrimeagen)
 * [Computerphile](https://www.youtube.com/user/Computerphile)
 * [TheCodingTrain](https://www.youtube.com/c/TheCodingTrain)
 * [Ben Eater](https://www.youtube.com/user/eaterbc)
 * [PwnFunction](https://www.youtube.com/c/PwnFunction)
 * [Fireship](https://www.youtube.com/c/Fireship)
 * [Corey Schafer](https://www.youtube.com/c/Coreyms)
-* [ThePrimeagen](https://www.youtube.com/c/ThePrimeagen)
 * [tutorialLiinux](https://www.youtube.com/c/tutoriaLinux)
 * [InOneLesson](https://www.youtube.com/c/InOneLesson)
 
@@ -58,6 +58,7 @@ A curated list of Remy's favorite YouTube channels.
 * [Z Reviews](https://www.youtube.com/c/ZeosReviews)
 * [DMS](https://www.youtube.com/c/DMS3TV)
 * [Crinacle+](https://www.youtube.com/c/Crincl)
+* [headfi](https://www.youtube.com/user/headfi)
 * [InnerFidelity](https://www.youtube.com/c/InnerFidelity)
 
 ### Keyboards
@@ -71,7 +72,10 @@ A curated list of Remy's favorite YouTube channels.
 * [日食记 Daily Cuisine](https://www.youtube.com/user/dailycuisine)
 * [小高姐的 Magic Ingredients](https://www.youtube.com/c/MagicIngredients)
 * [Nick DiGiovanni](https://www.youtube.com/c/NickDiGiovanni)
+* [Joshua Weissman](https://www.youtube.com/channel/UChBEbMKI1eCcejTtmI32UEw)
+* [Adam Ragusea](https://www.youtube.com/user/aragusea)
 * [Doobydobap](https://www.youtube.com/c/Doobydobap)
+* [Made With Lau](https://www.youtube.com/c/MadeWithLau)
 
 ### Art
 
@@ -101,6 +105,26 @@ A curated list of Remy's favorite YouTube channels.
 
 ## 中文频道
 
+
+### 科技
+
+* [林亦LYi](https://www.youtube.com/channel/UC4dtpugIYK56S_7btf5a-iQ)
+* [亿点点不一样](https://www.youtube.com/channel/UCRmtQhqRR8TmXOwuMu4sd1Q)
+* [回形针](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg)
+
+### 吃饭
+
+* [盗月社食遇记](https://www.youtube.com/channel/UCP-3kpzMMSUek7EqStDWypA)
+* [小高姐](https://www.youtube.com/c/MagicIngredients)
+* [我的样子平平无奇](https://www.youtube.com/channel/UC7M5COjQys7bQrGvn_RXRnw)
+* [找蔬食](https://www.youtube.com/c/%E6%89%BE%E8%94%AC%E9%A3%9FTraveggo)
+* [日食记](https://www.youtube.com/user/dailycuisine)
+* [老饭骨](https://www.youtube.com/channel/UCBJmYv3Vf_tKcQr5_qmayXg)
+* [王刚](https://www.youtube.com/channel/UCg0m_Ah8P_MQbnn77-vYnYw)
+* [绵羊料理](https://www.youtube.com/c/sheephoho)
+* [黑猫厨房](https://www.youtube.com/channel/UCX6NaFg1d_Lky8nD67Z05dg)
+* [大碗拿铁](https://www.youtube.com/c/bowloflatte)
+
 ### 吃瓜
 
 * [老高與小茉](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ)
@@ -108,26 +132,17 @@ A curated list of Remy's favorite YouTube channels.
 * [Eric长安万年](https://www.youtube.com/user/ericwan1000)
 * [X調查](https://www.youtube.com/c/X%E8%AA%BF%E6%9F%A5)
 * [英大吉來了](https://www.youtube.com/channel/UCRCikBf7On6KnoD0PLQXIOQ)
-* [谷阿莫](https://www.youtube.com/c/amogood)
+* [晓涵哥来了](https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA)
 * [叉雞](https://www.youtube.com/c/%E5%8F%89%E9%9B%9E)
 * [Wayne調查](https://www.youtube.com/channel/UCUyuwKWKge8qjnxpPYJuA8g)
 * [光暗杂学馆](https://www.youtube.com/channel/UC5Lr3SHjkMOl0umL7ynLO4Q)
 
-### 吃饭
+### 电影
 
-* [找蔬食](https://www.youtube.com/c/%E6%89%BE%E8%94%AC%E9%A3%9FTraveggo)
-* [回形针](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg)
-* [日食记](https://www.youtube.com/user/dailycuisine)
-* [盗月社食遇记](https://www.youtube.com/channel/UCP-3kpzMMSUek7EqStDWypA)
-* [小高姐](https://www.youtube.com/c/MagicIngredients)
-* [老饭骨](https://www.youtube.com/channel/UCBJmYv3Vf_tKcQr5_qmayXg)
-* [王刚](https://www.youtube.com/channel/UCg0m_Ah8P_MQbnn77-vYnYw)
-* [绵羊料理](https://www.youtube.com/c/sheephoho)
-* [黑猫厨房](https://www.youtube.com/channel/UCX6NaFg1d_Lky8nD67Z05dg)
+* [谷阿莫](https://www.youtube.com/c/amogood)
+* [阿斗归来了](https://www.youtube.com/channel/UCAHK74SppWwI-my4xBuh2LA)
+* [哇萨比抓马](https://www.youtube.com/c/%E5%93%87%E8%90%A8%E6%AF%94%E6%8A%93%E9%A9%ACWasabiDrama)
 
-### 科技
+### 瓜皮
 
-* [晓涵哥来了](https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA)
-* [林亦LYi](https://www.youtube.com/channel/UC4dtpugIYK56S_7btf5a-iQ)
-* [亿点点不一样](https://www.youtube.com/channel/UCRmtQhqRR8TmXOwuMu4sd1Q)
-* [回形针](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg)
+* [拜托了小翔哥](https://www.youtube.com/channel/UCBPMSrO-Ljh_jGeFX5HDmkQ)
