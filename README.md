@@ -10,6 +10,7 @@ A curated list of Remy's favorite YouTube channels.
 * [ThePrimeagen](https://www.youtube.com/c/ThePrimeagen)
 * [Vsauce](https://www.youtube.com/c/vsauce1)
 * [Dave2D](https://www.youtube.com/c/Dave2D)
+* [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 
 ## Educational
 
